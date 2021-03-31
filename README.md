@@ -3,7 +3,9 @@ C# Fundamentals
 Applied Topics:
 
 *Fundamentals
+
 *Control Structures
+
 *Lessons and Methods
 *Collections
 *Object orientation
