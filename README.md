@@ -2,22 +2,22 @@ C# Fundamentals
 
 Applied Topics:
 
-*Fundamentals
+* Fundamentals
 
-*Control Structures
+* Control Structures
 
-*Lessons and Methods
+* Lessons and Methods
 
-*Collections
+* Collections
 
-*Object orientation
+* Object orientation
 
-*Methods and Functions
+* Methods and Functions
 
-*Exceptions
+* Exceptions
 
-*API Exploring
+* API Exploring
 
-*Advanced
+* Advanced
 
 ** Code description is in portuguese **
